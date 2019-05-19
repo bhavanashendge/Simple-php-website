@@ -1,4 +1,5 @@
 #!/bin/bash
+# Script to start php simple server
 
 export hostname=`hostname`
 
